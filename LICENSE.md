@@ -1,4 +1,4 @@
-# 
+# 自动 Vegas Pro 效果 Mac OS版 | 精英 Vegas Pro 效果 PC Windows版。集成 3D图层 和 文本动画，跨平台性能最大化。
 
 
 
